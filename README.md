@@ -1,9 +1,3 @@
-# Calculator - A simple calculator in the C# language
-
-
-
-
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
